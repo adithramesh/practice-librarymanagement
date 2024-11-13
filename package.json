@@ -1,0 +1,22 @@
+{
+  "name": "week-17",
+  "version": "1.0.0",
+  "description": "Typescript Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts",
+    "typescript"
+  ],
+  "author": "Adith Ramesh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
